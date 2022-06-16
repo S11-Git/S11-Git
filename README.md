@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S11-Git
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning html and javva
+- 🌱 I’m currently learning html,python and java
 - 📫 How to reach me u/redbullracing33 on reddit
 
 <!---
