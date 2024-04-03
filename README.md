@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @S11-Git
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 📫 u/redbullracing33 on reddit
+- 👋 Hi, I’m Rick
+- 👀 I’m interested in making applications for android
+- 🌱 I’m currently learning kothlin and jetpack compose for android
+- 📫 contact@rickbrouwer.nl
 
 <!---
 S11-Git/S11-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
