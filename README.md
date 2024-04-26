@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rick
-- 👀 I’m interested in making applications for android
+- 👀 I’m interested in making applications for android with jetpack compose
 - 🌱 I’m currently learning kotlin and jetpack compose for android
 - 📫 contact@rickbrouwer.nl
 
